@@ -1,0 +1,10 @@
+# local .terraform
+*/.terraform/*
+.terraform.*
+
+# tf state files
+*.tfstate
+*.tfstate.*
+
+# tf variable file
+*.tfvars
